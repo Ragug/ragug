@@ -1,49 +1,54 @@
-# Hi there! 👋 I'm Ragu
+# Hi there! I'm Ragu 👋
 
-- 🌱 I'm currently learning and working with Python, C, HTML, CSS, JS, and Java. I also have a basic understanding of Node.js.
-- 💼 I work as a web scraping and web automation specialist.
-- 📝 Check out my Medium account: [ragug.medium.com](https://ragug.medium.com/)
-- 🚀 I'm experienced in:
-  - **Languages:** Python, C, HTML, CSS, JS, Java, Node.js
-  - **Frameworks:** Django, Spring Boot
-  - **Tools:** Selenium, Scrapy, Puppeteer (Node.js)
-  - **Other Skills:** Developing and deploying projects, Django REST API, Telegram Bots, Chrome Extension, Embedded C programming for Arduino, Python packages.
+[![Website](https://img.shields.io/badge/Portfolio-ragug.com-blue?style=flat-square)](https://www.ragug.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ragug-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ragug)
+[![Medium](https://img.shields.io/badge/Medium-ragug.medium-12100E?style=flat-square&logo=medium)](https://ragug.medium.com/)
 
-## 🌈 GitHub Stats
+I am a **Senior Python Developer** specializing in building high-performance distributed systems, real-time event-driven architectures, and production-grade AI/DevOps automation. Currently, I serve as the Backend & Infrastructure Lead for mission-critical enterprise applications at **SMTlabs (for Vodafone Idea)**.
 
-![Ragu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragug&show_icons=true)
+Beyond enterprise backend architecture, I have a deep background in advanced web automation, reverse engineering web systems, and contributing to open-source software.
 
-## 📚 Projects
+---
 
-### 1. [Quillbot Unlock](https://github.com/ragug/quillbot-premium-for-free)
+## 🚀 Technical Expertise
 
-Quillbot Unlock is a tool that allows users to paraphrase an unlimited number of words using Quillbot, with access to seven different writing modes and four synonym options. The summarizer feature has a word limit of 6000 and can process up to 15 sentences at once. Users also have the option to freeze unlimited words and phrases.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, Rust, SQL, JavaScript, Node.js, C |
+| **Backend & Frameworks** | FastAPI, Flask, Django, Spring Boot, Microservices |
+| **Databases & Caching** | PostgreSQL (Materialized Views, PG NOTIFY), Redis (Pub/Sub), MinIO |
+| **AI & LLMs** | RAG, Vector Embeddings, OpenAI API, Ollama, n8n |
+| **DevOps & Cloud** | Docker (Swarm/Compose), GitLab CI/CD, Linux (RHEL), GCP, Airflow, Celery |
+| **Observability & Security** | ELK Stack (Elasticsearch, Logstash, Kibana), Grafana, LDAP, SAML |
+| **Web Automation** | Scrapy, Selenium, Puppeteer, Requests |
 
-<div>
-  <a href="https://github.com/ragug/quillbot-premium-for-free">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ragug&theme=highcontrast&repo=quillbot-premium-for-free" />
-  </a>
-</div>
+---
 
-### 2. [Colab as VPS](https://github.com/ragug/colab-as-Vps/)
+## 📈 Production-Scale Impact & Highlights
 
-This GitHub repository serves as a guide on using Google Colaboratory as a virtual private server (VPS). It includes instructions on setup and configuration, along with sample code for various applications. Ideal for developers, researchers, or anyone looking to run a server on a budget.
+*   **AI-Powered DevOps:** Engineered a self-hosted LLM Code Review system inside air-gapped GitLab CI/CD pipelines, slashing manual PR review times by **40%**.
+*   **High-Performance APIs:** Designed microservice architectures handling peak traffic of **195+ RPS** with a **5ms P95 latency** and an **98.5% cache hit ratio**.
+*   **Real-Time Pipelines:** Built an end-to-end live notification streaming pipeline using PostgreSQL Triggers, Redis Pub/Sub, and Server-Sent Events (SSE).
+*   **Data Throughput Optimization:** Re-architected legacy scrapers to increase browser concurrency by **300%**, significantly optimizing server resource utilization.
 
-<div>
-  <a href="https://github.com/ragug/colab-as-Vps/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ragug&theme=highcontrast&repo=colab-as-Vps" />
-  </a>
-</div>
+---
 
-## 🤖 Web Scraping and Automation
+## 🤝 Open Source Contributions
 
-I specialize in web scraping using tools like Selenium, Scrapy, and Puppeteer in Node.js. Let's automate the web together!
+I love contributing back to the tools I use. Some of my recent contributions include:
+*   [**curl_cffi**](https://github.com/lexiforest/curl_cffi): Enhanced the core `Response` class representation to natively display HTTP status codes, drastically improving debugging workflows for thousands of developers.
+*   [**pyseto**](https://github.com/ajalt/pyseto): Refactored security-registered claims helper methods to simplify token validation logic and eliminate code duplication.
 
-## 🤝 Let's Connect!
+---
 
-- Email: ragu19062002@gmail.com
-- Medium: [ragug.medium.com](https://ragug.medium.com/)
-- Instagram: [@ragu2k](https://www.instagram.com/ragu2k/)
-- GitHub: [ragug](https://github.com/ragug)
+## 📝 Latest Writing & Thoughts
+I regularly write about backend performance, database optimization, and web system workarounds. Read my technical deep dives on [Medium](https://ragug.medium.com/).
 
-Feel free to explore my repositories and provide feedback. Let's code and learn together! 🚀
+## 📬 Let's Connect!
+
+*   **Email:** ragu19062002@gmail.com
+*   **Personal Website:** [ragug.com](https://www.ragug.com)
+*   **LinkedIn:** [linkedin.com/in/ragug](https://linkedin.com/in/ragug)
+*   **Instagram:** [@\_ragug_](https://www.instagram.com/_ragug_/)
+
+Feel free to browse through my repositories, open an issue, or drop a line if you want to collaborate on high-scale systems or complex automation setups! 🚀
