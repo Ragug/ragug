@@ -32,7 +32,13 @@ Beyond enterprise backend architecture, I have a deep background in advanced web
 *   **Data Throughput Optimization:** Re-architected legacy scrapers to increase browser concurrency by **300%**, significantly optimizing server resource utilization.
 
 ---
+## 📈 GitHub Stats  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragug&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragug&theme=blue_green)
 
+
+
+---
 ## 🤝 Open Source Contributions
 
 I love contributing back to the tools I use. Some of my recent contributions include:
