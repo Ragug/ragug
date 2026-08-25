@@ -42,8 +42,8 @@ Beyond enterprise backend architecture, I have a deep background in advanced web
 ## 🤝 Open Source Contributions
 
 I love contributing back to the tools I use. Some of my recent contributions include:
-*   [**curl_cffi**](https://github.com/lexiforest/curl_cffi): Enhanced the core `Response` class representation to natively display HTTP status codes, drastically improving debugging workflows for thousands of developers.
-*   [**pyseto**](https://github.com/ajalt/pyseto): Refactored security-registered claims helper methods to simplify token validation logic and eliminate code duplication.
+*   [**curl_cffi**](https://github.com/lexiforest/curl_cffi/pull/249): Enhanced the core `Response` class representation to natively display HTTP status codes, drastically improving debugging workflows for thousands of developers.
+*   [**pyseto**](https://github.com/dajiaji/pyseto/pull/642): Refactored security-registered claims helper methods to simplify token validation logic and eliminate code duplication.
 
 ---
 
